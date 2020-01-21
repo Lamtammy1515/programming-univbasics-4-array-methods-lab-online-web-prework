@@ -1,6 +1,7 @@
 def using_include(array, element)
-['Cat', 'Dog', 'Bird'].include? 'Dog'
-['Cat', 'Dog', 'Bird'].include? 'Horse'
+array = ["Macys", "Nordstrom", "I", "Sears", "wow"]
+array.include?("Macys")
+array.include?("Chase")
 end
 
 def using_sort(array)
