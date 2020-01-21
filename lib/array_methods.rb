@@ -9,7 +9,7 @@ array.last
 end
 
 def using_reverse(array)
-
+array = ["Macys", "Nordstrom", "Jcpenney", "Sears", "arrays!"]
 end
 
 def using_first(array)
