@@ -1,11 +1,11 @@
 def using_include(array, element)
 array = ["Macys", "Nordstrom", "Jcpenney", "Sears"]
 array.include?("Macys")
-array,include?("MCM")
 end
 
 def using_sort(array)
-
+array = ["Macys", "Nordstrom", "Jcpenney", "Sears", "wow"]
+array.last 
 end
 
 def using_reverse(array)
