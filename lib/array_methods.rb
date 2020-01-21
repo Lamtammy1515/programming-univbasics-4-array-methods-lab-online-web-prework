@@ -1,6 +1,6 @@
 def using_include(array, element)
 array = ["Macys", "Nordstrom", "Jcpenney", "Sears"]
-array.include?("Macys")
+array.include?("Jcpenney")
 end
 
 def using_sort(array)
