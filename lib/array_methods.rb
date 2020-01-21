@@ -1,5 +1,6 @@
 def using_include(array, element)
 ['Cat', 'Dog', 'Bird'].include? 'Dog'
+['Cat', 'Dog', 'Bird'].include? 'Horse'
 end
 
 def using_sort(array)
