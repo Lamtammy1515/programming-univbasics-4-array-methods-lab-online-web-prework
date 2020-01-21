@@ -24,5 +24,6 @@ array[3]
 end
 
 def using_size(array)
-
+array = ["Macys", "Nordstrom", "Jcpenney", "Sears", "Garage", "F21", "Boxlunch"]
+array.size 
 end
