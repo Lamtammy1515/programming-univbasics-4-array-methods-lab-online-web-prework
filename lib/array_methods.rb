@@ -1,11 +1,11 @@
 def using_include(array, element)
 array = ["wow", "I", "am", "really", "learning", "arrays!"]
 
-if array = "wow"
+if element1 = "wow"
   return true 
 end 
 
-if array = "you"
+if element2 = "you"
   return false 
 end 
 end
