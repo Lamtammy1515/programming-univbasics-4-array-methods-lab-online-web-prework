@@ -1,7 +1,5 @@
 def using_include(array, element)
-array = ["Macys", "Nordstrom", "I", "Sears", "wow"]
-array.include?("Macys")
-array.include?("Chase")
+array.include?()
 end
 
 def using_sort(array)
