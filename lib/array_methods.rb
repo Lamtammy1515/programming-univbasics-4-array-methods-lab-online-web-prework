@@ -9,7 +9,7 @@ array.sort
 end
 
 def using_reverse(array)
-array = ["Macys", "Nordstrom", "Jcpenney", "Sears", "arrays!"]
+array = ["wow", "Nordstrom", "Jcpenney", "Sears", "arrays!"]
 array.reverse 
 end
 
