@@ -10,6 +10,7 @@ end
 
 def using_reverse(array)
 array = ["Macys", "Nordstrom", "Jcpenney", "Sears", "arrays!"]
+array.reverse 
 end
 
 def using_first(array)
