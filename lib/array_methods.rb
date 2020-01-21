@@ -4,7 +4,7 @@ array.include?("Macys")
 end
 
 def using_sort(array)
-array = ["Macys", "Nordstrom", "Jcpenney", "Sears", "wow"]
+array = ["Macys", "Nordstrom", "I", "Sears", "wow"]
 array.sort
 end
 
