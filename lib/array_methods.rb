@@ -19,7 +19,8 @@ array[0]
 end
 
 def using_last(array)
-
+array = ["Macys", "Nordstrom", "Jcpenney", "arrays!"]
+array[3]
 end
 
 def using_size(array)
